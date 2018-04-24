@@ -5,6 +5,7 @@ body{font-family:'Open Sans',serif;padding-top:54px;color:#868e96}@media (min-wi
   background-position: left;
   background-size: cover;
   padding-top: 1em!important;
+  background-color: aliceblue;
 }
 #awards{
   padding-top: 1em!important;
@@ -14,6 +15,7 @@ body{font-family:'Open Sans',serif;padding-top:54px;color:#868e96}@media (min-wi
   background-repeat: no-repeat;
   background-position: left;
   background-size: cover;
+  background-color: aliceblue;
 }
 .p-3 {
     padding: 2rem!important;
@@ -267,6 +269,9 @@ padding-top: 1rem!important;
  }
 @media (min-width: 600px) and (max-width: 1079.9px) {
   #contact>div>p{
-        padding-right: 20%!important;
+        padding-right: 40%!important;
     }
  }
+.card-img-top{
+  height: 14.5rem;
+}
