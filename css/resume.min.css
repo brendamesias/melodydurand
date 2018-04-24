@@ -4,6 +4,10 @@ body{font-family:'Open Sans',serif;padding-top:54px;color:#868e96}@media (min-wi
   background-repeat: no-repeat;
   background-position: left;
   background-size: cover;
+  padding-top: 1em!important;
+}
+#awards{
+  padding-top: 1em!important;
 }
 #contact{
   background-image: url(../img/contacto.jpg);
